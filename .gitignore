@@ -1,0 +1,4 @@
+wp-config.php
+node_modules/
+wp-admin/
+wp-includes/
